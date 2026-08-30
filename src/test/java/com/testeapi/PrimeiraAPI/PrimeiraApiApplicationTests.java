@@ -1,4 +1,4 @@
-package com.ganleyorelha.primeira_api;
+package com.testeapi.PrimeiraAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
